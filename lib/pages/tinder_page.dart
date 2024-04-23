@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:reading_mockups/utils/mockup_colors.dart';
 import 'package:reading_mockups/widgets/tinder_app_bar.dart';
 import 'package:reading_mockups/widgets/tinder_button.dart';
 import 'package:reading_mockups/widgets/tinder_description.dart';
@@ -19,15 +20,15 @@ class _TinderPageState extends State<TinderPage> {
     return Material(
       child: LayoutBuilder(builder: (context, constraint) {
         return Container(
-          decoration: const BoxDecoration(
+          decoration: BoxDecoration(
             gradient: LinearGradient(
               begin: Alignment.topRight,
               end: Alignment.bottomLeft,
               colors: <Color>[
-                Color(0xFFEE7462),
-                Color(0xFFE85D6A),
-                Color(0xFFEA5C6C),
-                Color(0xFFE94976),
+                MockupColors.mildHeartAttack,
+                MockupColors.lovelyLittleRosy,
+                MockupColors.pinkPepper,
+                MockupColors.radishical,
               ],
             ),
           ),

@@ -8,4 +8,8 @@ class MockupColors {
   static Color astrogranite = const Color(0xFF757579);
   static Color white = const Color(0xFFFFFFFF);
   static Color boatAnchor = const Color(0xFF363636);
+  static Color mildHeartAttack = const Color(0xFFEE7462);
+  static Color lovelyLittleRosy = const Color(0xFFE85D6A);
+  static Color pinkPepper = const Color(0xFFEA5C6C);
+  static Color radishical = const Color(0xFFE94976);
 }
