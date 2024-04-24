@@ -1,16 +1,11 @@
-# reading_mockups
+# Leitura de mockups
 
-A new Flutter project.
+Este projeto foi proposto a leitura de dois mockups e a criação dos mesmos utilitando apenas Containers.
 
-## Getting Started
+## Mockup VS Tela
 
-This project is a starting point for a Flutter application.
+![Mockup tinder](/docs/images/tinder-mockup.png)
+![Screenshot tinder app](/docs/images/tinder.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mockup money](/docs/images/money-mockup.png)
+![Screenshot money app](/docs/images/money.png)
